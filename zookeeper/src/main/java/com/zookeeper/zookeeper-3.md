@@ -1,0 +1,2 @@
+- zookeeper 的一致性算法可以说成了分布式服务的必有调料了，它和大数据有哪些碰撞呢
+- 学习资料来源于http://bigdata-star.com/archives/1752
