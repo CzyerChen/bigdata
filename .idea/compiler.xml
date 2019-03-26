@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hbase" />
+        <module name="kafka" />
+        <module name="spark" />
         <module name="zookeeper" />
       </profile>
     </annotationProcessing>
