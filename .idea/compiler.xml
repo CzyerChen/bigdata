@@ -12,5 +12,12 @@
         <module name="zookeeper" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bigdata" target="1.5" />
+      <module name="hbase" target="7" />
+      <module name="kafka" target="1.5" />
+      <module name="spark" target="1.5" />
+      <module name="zookeeper" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

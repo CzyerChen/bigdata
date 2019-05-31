@@ -1,5 +1,5 @@
 - zookeeper既然时分布式协调服务的老大，它在failover，节点选举，一致性管理上都做了哪些，我们也就非常有必要知道了
-- 学习资料部分来源于http://bigdata-star.com/archives/category/bigdata/zookeeper%E6%95%99%E7%A8%8B
+- [学习资料部分来源](http://bigdata-star.com/archives/category/bigdata/zookeeper%E6%95%99%E7%A8%8B)
 
 ### 一致性特点
 ### Paxos一致性协议的鼻祖
